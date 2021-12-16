@@ -1,4 +1,4 @@
-package bisearch;
+package algorithm.bisearch;
 
 public class demo {
     int[] a={2,2,2,4,4,4};
